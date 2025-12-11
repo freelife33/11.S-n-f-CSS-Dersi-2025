@@ -1,0 +1,12 @@
+/*
+Harici ( External ) CSS Dosyası
+Bu dosya HTML dosyasına <link> etiketi ile bağlanır.
+tek yerden stil yönetimi sağlar.
+kullanımı kolaydır.
+Tarayıcı önbellekleme avantajı sağlar.
+
+*/
+
+p{
+    color:red;
+}
